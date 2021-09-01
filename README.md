@@ -1,5 +1,5 @@
 # nextjs-blog
 creating blog by learning next js
 
-[Demo](nextjs-blog-8keclrjec-0826pathak-gmailcom.vercel.app)
+[Demo](https://nextjs-blog-flame-alpha-71.vercel.app/)
 
